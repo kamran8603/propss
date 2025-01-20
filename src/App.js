@@ -14,6 +14,7 @@ function App() {
   <Inc data={value} />
   <Dec file={a} />
   <h1>hello</h1>
+  <h1>hell</h1>
 
 
 
